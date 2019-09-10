@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ask Bot</string>
+    <string name="heading">Confusion in making decision..don\'t worry I\'m here to help</string>
+    <string name="ask">Ask..!!</string>
+</resources>
